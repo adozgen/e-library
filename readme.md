@@ -107,12 +107,10 @@ Bu projede bu tablo ilişklerine ait crud işlemlerini içeren örnek bir rest a
 Swagger üzerinden test edebilirsiniz.
 
 
-![Ekran Resmi 2023-09-30 14.40.16.png](..%2F..%2F..%2FEkran%20Resmi%202023-09-30%2014.40.16.png)
+![swagger1.png](src%2Fmain%2Fresources%2Fstatic%2Fswagger1.png)
 
 
-
-![Ekran Resmi 2023-09-30 14.41.02.png](..%2F..%2F..%2FEkran%20Resmi%202023-09-30%2014.41.02.png)
-
+![swagger2.png](src%2Fmain%2Fresources%2Fstatic%2Fswagger2.png)
 
 
-![Ekran Resmi 2023-09-30 14.41.20.png](..%2F..%2F..%2FEkran%20Resmi%202023-09-30%2014.41.20.png)
+![swagger3.png](src%2Fmain%2Fresources%2Fstatic%2Fswagger3.png)
